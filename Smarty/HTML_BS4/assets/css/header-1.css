@@ -13,7 +13,7 @@
 	background-color:rgba(0,0,0,0.03);
 }
 #topMain.nav-pills>li.active>a {
-	color:#687482;
+	color:#ff0000;
 }
 
 #topMain.nav-pills>li>a.dropdown-toggle {
@@ -97,7 +97,7 @@
 			left:0; right:0;
 			top:60px !important;
 			width:100%;
-			background-color:#fff;
+			background-color:rgb(0, 0, 0);
 			border-top:rgba(0,0,0,0.1) 1px solid;
 		}
 }
